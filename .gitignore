@@ -1,2 +1,9 @@
+# compiled binaries
 server
 client
+*.o
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
